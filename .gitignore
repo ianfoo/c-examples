@@ -1,4 +1,9 @@
+# Editor garbage
 *.bak
 *.swp
 *~
+
+# Intermediate C files
 a.out
+*.o
+*.a
